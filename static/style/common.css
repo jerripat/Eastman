@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  padding: 0;
+    background-color: #C6BCBC;
+}
+
+.card {
+  margin: 10px 10px 10px 20px;
+  padding: 10px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#first {
+  height: 200px;
+  width: 200px;
+  border-radius: 50px;
+  background-color: #decbcb;
+}
+
+#secOne {
+  border-radius: 50px;
+
+}
+
+#logo img {
+  height: 200px;
+  width: 200px;
+  border-radius: 100px;
+  margin-left: 10px;
+}
+
+#title {
+  margin: 0 auto;
+  font-family: "Bookman Oldstyle", serif;
+}
+
+.topSection{
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
